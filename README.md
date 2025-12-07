@@ -1,6 +1,7 @@
 
 ````markdown
-# ToDo – Lista de Tarefas (Vue 3 + Supabase + Node)
+# ToDo – Lista de Tarefas
+Integrantes: Emanuelle Anjolin Zuntini e  Paulo Henrique dos Santos
 
 Aplicação de lista de tarefas com autenticação por usuário, interface moderna (Vuetify, tema claro/escuro) e API REST documentada com Swagger.
 
