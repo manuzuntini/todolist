@@ -1,4 +1,3 @@
-Segue um único `README.md` pronto para você colar na raiz do projeto (`todo-list-app/`):
 
 ````markdown
 # ToDo – Lista de Tarefas (Vue 3 + Supabase + Node)
